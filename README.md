@@ -1,4 +1,10 @@
- 
+👋 Olá, Pessoal !!! Me chamo Guilherme Salla e sou estudante de análise e desenvolvimento de sistemas na Unimetrocamp.
+
+🦄 Atualmente estou começando estudar (HTML,CSS,JavaScript e suas bibliotecas/frameworks).
+
+💼 Em busca do meu primeiro desafio prossional.
+
+💌 O segredo do sucesso é a constância para o objetivo⤵️
  
  <div align="center">
   <a href="https://github.com/rafaballerini">
